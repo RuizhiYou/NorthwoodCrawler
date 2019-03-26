@@ -1,0 +1,483 @@
+1553622968392	geckodriver	INFO	geckodriver 0.20.0
+1553622968451	geckodriver	INFO	Listening on 127.0.0.1:61039
+1553622984104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.CNLpYy9idCNm"
+1553622984594	Marionette	INFO	Enabled via --marionette
+2019-03-26 13:56:25.516 plugin-container[22487:930721] Unable to find feedback application.
+2019-03-26 13:56:25.523 plugin-container[22487:930721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15043, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553622985781	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553622985782	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553622985792	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 13:56:25.856 plugin-container[22487:930721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1506f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553622985899	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553622985905	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553622985905	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553622985906	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553622985910	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+2019-03-26 13:56:25.920 plugin-container[22487:930721] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1157215e0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 13:56:25.923 plugin-container[22487:930731] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553622985957	Marionette	INFO	Listening on port 61128
+1553622985963	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553622985964	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553622985966	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553622985979	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553622986015	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553622986015	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553622986019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553622986028	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553622986095	Marionette	DEBUG	Register listener.js for window 2147483649
+1553622986151	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553622986338	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553622986338	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553622986575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553622986582	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553623957203	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13
+1553623975244	geckodriver	INFO	geckodriver 0.20.0
+1553623975309	geckodriver	INFO	Listening on 127.0.0.1:51002
+1553623991515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.eqGmovH94SSY"
+1553623991965	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:13:12.872 plugin-container[25366:958064] Unable to find feedback application.
+2019-03-26 14:13:12.880 plugin-container[25366:958064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553623993215	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553623993216	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553623993243	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:13:13.339 plugin-container[25366:958064] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15003, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:13:13.431 plugin-container[25366:958064] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x11415d070 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:13:13.433 plugin-container[25366:958076] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553623993440	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553623993446	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553623993446	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553623993447	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553623993451	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553623993491	Marionette	INFO	Listening on port 51135
+1553623993492	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553623993493	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553623993497	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553623993504	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553623993541	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553623993541	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553623993542	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553623993588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553623993631	Marionette	DEBUG	Register listener.js for window 2147483649
+1553623993662	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553623993888	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553623993888	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553623994054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553623994056	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624002588	geckodriver	INFO	geckodriver 0.20.0
+1553624002650	geckodriver	INFO	Listening on 127.0.0.1:51262
+1553624018599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.inAryodBhrc0"
+1553624019045	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:13:39.946 plugin-container[25376:958727] Unable to find feedback application.
+2019-03-26 14:13:39.953 plugin-container[25376:958727] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:13:40.124 plugin-container[25376:958727] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14e2b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624020138	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624020138	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624020146	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:13:40.201 plugin-container[25376:958727] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10dd54340 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:13:40.203 plugin-container[25376:958728] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624020263	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624020270	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624020270	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624020271	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624020276	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624020329	Marionette	INFO	Listening on port 51414
+1553624020334	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624020335	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624020337	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624020345	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624020364	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624020365	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624020368	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624020404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624020463	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624020495	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624020678	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624020678	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624020964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624021032	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624110788	geckodriver	INFO	geckodriver 0.20.0
+1553624110876	geckodriver	INFO	Listening on 127.0.0.1:52047
+1553624121380	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13
+1553624126826	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13
+1553624127845	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.eFtBxnd0Eemv"
+1553624128245	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:15:29.238 plugin-container[25385:961376] Unable to find feedback application.
+2019-03-26 14:15:29.253 plugin-container[25385:961376] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624129446	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624129446	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624129456	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:15:29.480 plugin-container[25385:961376] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:15:29.543 plugin-container[25385:961376] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10a910e20 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:15:29.545 plugin-container[25385:961377] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624129567	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624129590	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624129590	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624129592	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624129600	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624129658	Marionette	INFO	Listening on port 52168
+1553624129666	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624129667	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624129669	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624129684	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624129705	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624129706	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624129706	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624129747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624129803	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624129827	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624130276	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624130277	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624130481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624130919	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624131147	Marionette	DEBUG	Received DOM event "beforeunload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624131243	Marionette	DEBUG	Received DOM event "pagehide" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624131243	Marionette	DEBUG	Received DOM event "unload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624131343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624131345	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624139469	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1553624156663	geckodriver	INFO	geckodriver 0.20.0
+1553624156723	geckodriver	INFO	Listening on 127.0.0.1:52398
+1553624172201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.8rPA4rmMHIkW"
+1553624172591	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:16:13.559 plugin-container[25395:962615] Unable to find feedback application.
+2019-03-26 14:16:13.571 plugin-container[25395:962615] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:16:13.806 plugin-container[25395:962615] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x15037, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624173836	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624173836	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624173844	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:16:13.867 plugin-container[25395:962615] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10e158040 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:16:13.870 plugin-container[25395:962617] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624173949	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624173969	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624173969	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624173972	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624173982	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624173998	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624173999	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624174000	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624174008	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624174066	Marionette	INFO	Listening on port 52539
+1553624174067	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624174067	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624174072	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624174131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624174201	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624174234	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624174446	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624174446	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624174957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624174990	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624248953	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13
+1553624252999	geckodriver	INFO	geckodriver 0.20.0
+1553624253060	geckodriver	INFO	Listening on 127.0.0.1:53139
+1553624267930	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.xrCgqBgXGxlD"
+1553624268353	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:17:49.252 plugin-container[25404:964485] Unable to find feedback application.
+2019-03-26 14:17:49.260 plugin-container[25404:964485] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1523b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:17:49.441 plugin-container[25404:964485] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1526f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624269474	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624269474	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624269480	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:17:49.518 plugin-container[25404:964485] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x109554280 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:17:49.520 plugin-container[25404:964487] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624269585	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624269591	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624269592	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624269592	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624269598	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624269604	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624269605	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624269605	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624269611	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624269618	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624269618	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624269619	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624269677	Marionette	INFO	Listening on port 53283
+1553624269693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624269751	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624269770	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624269971	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624269971	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624270134	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624270137	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624278366	Marionette	DEBUG	Received DOM event "beforeunload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624278737	Marionette	DEBUG	Received DOM event "pagehide" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624278737	Marionette	DEBUG	Received DOM event "unload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624278804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624279354	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624454242	geckodriver	INFO	geckodriver 0.20.0
+1553624454309	geckodriver	INFO	Listening on 127.0.0.1:54528
+1553624469978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.66nPBBWANU2Q"
+1553624470520	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:21:11.556 plugin-container[25456:968775] Unable to find feedback application.
+2019-03-26 14:21:11.568 plugin-container[25456:968775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1523f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624471776	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624471776	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624471787	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624471854	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13
+2019-03-26 14:21:11.881 plugin-container[25456:968775] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1526b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624471909	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624471917	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624471917	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624471917	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624471923	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+2019-03-26 14:21:11.953 plugin-container[25456:968775] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10dc081c0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:21:11.957 plugin-container[25456:968788] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624471981	Marionette	INFO	Listening on port 54671
+1553624471995	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624471996	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624471999	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624472011	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624472037	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624472037	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624472038	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624472076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624472136	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624472160	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624472436	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624472437	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624472603	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624472608	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624477627	Marionette	DEBUG	Received DOM event "beforeunload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624477984	Marionette	DEBUG	Received DOM event "pagehide" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624477984	Marionette	DEBUG	Received DOM event "unload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624478031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624478612	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624480329	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624480379	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624480379	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624480462	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624480492	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624480573	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13 < GeckoDriver.prototype.quit@driver.js:3307:3 < despatch@server.js:553:20 < execute@server.js:527:11 < onPacket/<@server.js:502:15 < onPacket@server.js:501:8 < _onJSONObjectReady/<@transport.js:501:9
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1553624480923	geckodriver::marionette	ERROR	Failed to stop browser process
+1553624510975	geckodriver	INFO	geckodriver 0.20.0
+1553624511049	geckodriver	INFO	Listening on 127.0.0.1:55022
+1553624513556	geckodriver	INFO	geckodriver 0.20.0
+1553624513615	geckodriver	INFO	Listening on 127.0.0.1:55036
+1553624528659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.3rzjHtVUFG7G"
+1553624529059	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:22:09.928 plugin-container[25467:969956] Unable to find feedback application.
+2019-03-26 14:22:09.938 plugin-container[25467:969956] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:22:10.110 plugin-container[25467:969956] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x14e0b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624530139	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624530139	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624530146	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:22:10.175 plugin-container[25467:969956] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x107b2de50 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:22:10.178 plugin-container[25467:969957] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624530249	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624530255	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624530256	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624530256	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624530260	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624530266	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624530267	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624530267	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624530273	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624530279	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624530280	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624530280	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624530339	Marionette	INFO	Listening on port 55177
+1553624530431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624530476	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624530494	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624530714	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624530714	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624530903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624530907	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624537560	Marionette	DEBUG	Received DOM event "beforeunload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624537931	Marionette	DEBUG	Received DOM event "pagehide" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624537931	Marionette	DEBUG	Received DOM event "unload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624537986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624538565	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624540175	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624540342	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624540343	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624540385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624540400	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624560185	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13 < GeckoDriver.prototype.quit@driver.js:3307:3 < despatch@server.js:553:20 < execute@server.js:527:11 < onPacket/<@server.js:502:15 < onPacket@server.js:501:8 < _onJSONObjectReady/<@transport.js:501:9
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1553624560526	geckodriver::marionette	ERROR	Failed to stop browser process
+1553624572975	geckodriver	INFO	geckodriver 0.20.0
+1553624573039	geckodriver	INFO	Listening on 127.0.0.1:55488
+1553624587794	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.RM2Apq0Op3oJ"
+1553624588175	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:23:09.063 plugin-container[25480:971440] Unable to find feedback application.
+2019-03-26 14:23:09.070 plugin-container[25480:971440] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:23:09.265 plugin-container[25480:971440] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae73, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624589285	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624589285	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624589293	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:23:09.329 plugin-container[25480:971440] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x101554310 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:23:09.332 plugin-container[25480:971442] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624589394	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624589400	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624589400	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624589400	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624589405	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624589443	Marionette	INFO	Listening on port 55650
+1553624589444	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624589444	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624589446	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624589452	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624589472	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624589472	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624589473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624589480	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624589526	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624589560	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624589752	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624589753	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624589939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624589942	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624611596	geckodriver	INFO	geckodriver 0.20.0
+1553624611655	geckodriver	INFO	Listening on 127.0.0.1:55856
+1553624613201	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1553624626741	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.myfb6aIrhIqG"
+1553624627117	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:23:47.973 plugin-container[25487:972400] Unable to find feedback application.
+2019-03-26 14:23:47.983 plugin-container[25487:972400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:23:48.159 plugin-container[25487:972400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb02f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624628197	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624628197	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624628203	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:23:48.222 plugin-container[25487:972400] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x1090542e0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:23:48.225 plugin-container[25487:972402] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624628299	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624628305	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624628305	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624628306	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624628309	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624628315	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624628315	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624628316	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624628321	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624628329	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624628329	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624628329	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624628384	Marionette	INFO	Listening on port 55944
+1553624628419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624628468	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624628486	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624628683	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624628684	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624628755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624628848	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624636058	Marionette	DEBUG	Received DOM event "beforeunload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624636475	Marionette	DEBUG	Received DOM event "pagehide" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624636475	Marionette	DEBUG	Received DOM event "unload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624636546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624637140	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624638773	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624638822	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624638823	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624638899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624638926	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624753913	addons.xpi	WARN	Exception running bootstrap method shutdown on easyscreenshot@mozillaonline.com: TypeError: this.extension is undefined (resource://gre/modules/Extension.jsm:967:5) JS Stack trace: shutdown@Extension.jsm:967:5 < callBootstrapMethod@XPIProvider.jsm:4509:20 < observe@XPIProvider.jsm:2281:13
+1553624756313	geckodriver	INFO	geckodriver 0.20.0
+1553624756373	geckodriver	INFO	Listening on 127.0.0.1:56811
+1553624771596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/p3/c0nl2trx52q3n99p5lr40pnm0000gn/T/rust_mozprofile.bmsUilrAVuye"
+1553624771970	Marionette	INFO	Enabled via --marionette
+2019-03-26 14:26:12.844 plugin-container[25519:975216] Unable to find feedback application.
+2019-03-26 14:26:12.853 plugin-container[25519:975216] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-03-26 14:26:13.027 plugin-container[25519:975216] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae6f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1553624773058	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624773058	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+1553624773067	addons.xpi	WARN	disabling legacy extension {4093c4de-454a-4329-8aff-c6b0b123c386}
+2019-03-26 14:26:13.097 plugin-container[25519:975216] unable to obtain configuration from file:///Library/Preferences/com.apple.ViewBridge.plist due to Error Domain=NSCocoaErrorDomain Code=257 "The file “com.apple.ViewBridge.plist” couldn’t be opened because you don’t have permission to view it." UserInfo={NSFilePath=/Library/Preferences/com.apple.ViewBridge.plist, NSUnderlyingError=0x10d533ee0 {Error Domain=NSPOSIXErrorDomain Code=1 "Operation not permitted"}}
+2019-03-26 14:26:13.100 plugin-container[25519:975218] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection invalid
+1553624773177	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624773216	Marionette	INFO	Listening on port 56970
+1553624773217	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624773217	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624773218	addons.xpi	WARN	Add-on tabtweak@mozillaonline.com is not compatible with application version.
+1553624773222	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624773228	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624773228	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624773229	addons.xpi	WARN	Add-on cehomepage@mozillaonline.com is not compatible with application version.
+1553624773237	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing experiment_apis: An unexpected property was found in the WebExtension manifest.
+1553624773245	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624773245	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624773245	addons.xpi	WARN	Add-on cpmanager@mozillaonline.com is not compatible with application version.
+1553624773276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553624773326	Marionette	DEBUG	Register listener.js for window 2147483649
+1553624773366	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1553624773589	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1553624773589	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1553624773725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624773804	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624779753	Marionette	DEBUG	Received DOM event "beforeunload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624780086	Marionette	DEBUG	Received DOM event "pagehide" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624780086	Marionette	DEBUG	Received DOM event "unload" for "https://weblogin.umich.edu/?cosign-shibboleth.umich.edu&https://shibboleth.umich.edu/idp/Authn/UWLogin?conversation=e1s1"
+1553624780154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624780731	Marionette	DEBUG	Received DOM event "pageshow" for "https://weblogin.umich.edu/cosign-bin/cosign.cgi"
+1553624782309	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624782469	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624782469	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624782513	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624782526	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624792601	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624792835	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624792836	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624792956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624792997	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624798126	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624798176	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624798177	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624798251	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624798260	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624808317	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624808557	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624808558	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624808675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624808722	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624813836	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624813884	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624813884	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624813966	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624813975	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624824022	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624824285	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624824286	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624824388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624824432	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624829535	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624829594	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624829594	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624829669	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624829678	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624839747	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624839983	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624839984	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624840104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624840108	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624845220	Marionette	DEBUG	Received DOM event "beforeunload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624845274	Marionette	DEBUG	Received DOM event "pagehide" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624845275	Marionette	DEBUG	Received DOM event "unload" for "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+1553624845357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+1553624845389	Marionette	DEBUG	Received DOM event "pageshow" for "https://assignments.housing.umich.edu/studentweb/SelectRoomResults.asp"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
