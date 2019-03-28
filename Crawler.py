@@ -9,7 +9,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 delay = 10
-#os.environ['MOZ_HEADLESS'] = '1'
+os.environ['MOZ_HEADLESS'] = '1'
 
 def send_message():
     requests.get("https://maker.ifttt.com/trigger/northwood/with/key/bar5hK44JlMubYdeHf7pbP")
@@ -44,7 +44,8 @@ def login(driver):
     except TimeoutException:
         return
     remember.click()
-    driver.switch_to.window(cur_window)
+    time.sleep(10)
+    driver.switch_to.default_content()
 
 def start():
     urls = [
@@ -56,6 +57,7 @@ def start():
     print("firefox has started")
     while True:
         for url in urls:
+            print(url)
             driver.get(url)
             login(driver)
 
@@ -71,7 +73,9 @@ def start():
             except TimeoutError:
                 send_message()
                 break
+            print("nothign, go back to sleep")
             time.sleep(10)
+        time.sleep(60)
     crawler_down_message()
 
 
