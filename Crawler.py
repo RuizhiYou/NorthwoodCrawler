@@ -1,3 +1,4 @@
+import os
 import requests
 import time
 
@@ -24,32 +25,36 @@ def login(driver):
     except TimeoutException:
         return
     search.send_keys("youruizh")
-    # driver.find_element_by_id("password").send_keys("password")
-    input("enter password")
+    driver.find_element_by_id("password").send_keys(os.environ['password'])
+    # input("enter password")
     driver.find_element_by_id("loginSubmit").click()
 
 
 def start():
-    url = "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&Roommates=152579&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+    urls = [
+        "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&fld31590=49&fld31591=Unfurnished&fld31589=August+16",
+        "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
+    ]
     profile = webdriver.FirefoxProfile("/Users/Danny/Library/Application Support/Firefox/Profiles/m933xts7.default/")
     driver = webdriver.Firefox(profile)
     while True:
-        driver.get(url)
-        login(driver)
+        for url in urls:
+            driver.get(url)
+            login(driver)
 
-        try:
-            search = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.ID, "btnSubmit")))
-        except TimeoutException:
-            crawler_down_message()
-            return
-        search.click()
+            try:
+                search = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.ID, "btnSubmit")))
+            except TimeoutException:
+                crawler_down_message()
+                return
+            search.click()
 
-        try:
-            WebDriverWait(driver, delay).until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".Error")))
-        except TimeoutError:
-            send_message()
-            break
-        time.sleep(10)
+            try:
+                WebDriverWait(driver, delay).until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".Error")))
+            except TimeoutError:
+                send_message()
+                break
+            time.sleep(10)
     crawler_down_message()
 
 
