@@ -8,8 +8,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-delay = 3
-
+delay = 10
+#os.environ['MOZ_HEADLESS'] = '1'
 
 def send_message():
     requests.get("https://maker.ifttt.com/trigger/northwood/with/key/bar5hK44JlMubYdeHf7pbP")
@@ -51,8 +51,9 @@ def start():
         "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&fld31590=49&fld31591=Unfurnished&fld31589=August+16",
         "https://assignments.housing.umich.edu/studentweb/SelectRoom.asp?Function=7450&fld31590=49&fld31591=Unfurnished&fld31589=August+1"
     ]
-    profile = webdriver.FirefoxProfile("/Users/Danny/Library/Application Support/Firefox/Profiles/m933xts7.default/")
+    profile = webdriver.FirefoxProfile("/home/lcsu/.mozilla/firefox/dv38o2et.default/")
     driver = webdriver.Firefox(profile)
+    print("firefox has started")
     while True:
         for url in urls:
             driver.get(url)
