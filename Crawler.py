@@ -28,7 +28,23 @@ def login(driver):
     driver.find_element_by_id("password").send_keys(os.environ['password'])
     # input("enter password")
     driver.find_element_by_id("loginSubmit").click()
+    time.sleep(5)
+    cur_window = driver.current_window_handle
+    driver.switch_to.frame(driver.find_element_by_id("duo_iframe"))
+    try:
+        css = ".stay-logged-in > label:nth-child(1) > input:nth-child(1)"
+        remember = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.CSS_SELECTOR, css)))
+    except TimeoutException:
+        return
+    remember.click()
 
+    try:
+        css = "div.row-label:nth-child(2) > button:nth-child(3)"
+        remember = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.CSS_SELECTOR, css)))
+    except TimeoutException:
+        return
+    remember.click()
+    driver.switch_to.window(cur_window)
 
 def start():
     urls = [
